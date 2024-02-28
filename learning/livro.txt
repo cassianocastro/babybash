@@ -1,0 +1,7 @@
+#Livro          #Exemplares
+###########################
+eletromagnetismo     5
+redes                4
+cálculo              8
+física               6
+eletrotécnica        7
