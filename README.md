@@ -1,0 +1,2 @@
+# babybash
+My bash learning
